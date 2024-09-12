@@ -1,0 +1,16 @@
+name: Tigramite
+channels:
+  - conda-forge
+  - pyviz
+  - nodefaults
+dependencies:
+  - python==3.9.7
+  - numpy==1.23.5
+  - numba==0.56.4
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - netCDF4
+  - xarray
+  - iris
+  - scipy
