@@ -2,7 +2,7 @@
 Welcome everyone! Here's the step-by-step guide of how to install the Python packages required for the project. 
 (We recommend using Anaconda for installation. Anaconda can be downloaded and installed from https://www.anaconda.com/download/success)
 
-1. Clone this repository to your local laptop, or download all the files and store within the same folder.
+1. Clone this repository (https://github.com/timo0thy/como) to your local laptop, or download all the files and store within the same folder.
 2. Install the environment (recommended using the Anaconda Prompt by running the command `conda env create -f environment.yml`)
 3. Activate the environment (recommended using the Anaconda Prompt by running the command `conda activate Tigramite`)
 4. Clone the Tigramite repository (https://github.com/jakobrunge/tigramite) to your local laptop
