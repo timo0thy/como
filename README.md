@@ -7,7 +7,7 @@ Welcome everyone! Here's the step-by-step guide of how to install the Python pac
 3. Activate the environment (recommended using the Anaconda Prompt by running the command `conda activate Tigramite`)
 4. Clone the Tigramite repository (https://github.com/jakobrunge/tigramite) to your local laptop
 5. Install Tigramite by running the command `python setup.py install` (make sure that you are within the `tigramite` directory)
-6. Try running the example script testscript.py by running the command `python testscript.py` - if it produces a PDF file with a causal diagram, you've got there! well done :) But don't worry if you can't, as that's only needed by the end of our Day 1 at Como.
+6. Try running the example script testscript.py by running the command `python PCMCI_test_script.py` - if it produces a PDF file with a causal diagram, you've got there! well done :) But don't worry if you can't, as that's only needed by the end of our Day 1 at Como.
 
 For steps (1) - (3), you may refer to https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html for more details.
 For steps (4) - (5), check https://github.com/jakobrunge/tigramite to find out more.
