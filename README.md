@@ -5,3 +5,4 @@ Welcome everyone! Here's the step-by-step guide of how to get the
 2. Install the environment (recommended using the Anaconda Prompt) by running the command
 3. Activate the environment
 4. Install Tigramite
+5. Try to run the example code testscript.py 
