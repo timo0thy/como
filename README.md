@@ -12,5 +12,5 @@ Welcome everyone! Here's the step-by-step guide of how to install the Python pac
 5. Install Tigramite by running the command `python setup.py install` (make sure that you are within the `tigramite` directory)
 6. Go back to this repository and try running the example script `PCMCI_test_script.py` by running the command `python PCMCI_test_script.py` - if it produces a PDF file with the causal diagram above, you've got there! well done :) But don't worry if you can't, as that's only needed by the end of our Day 1 at Como.
 
-For steps (1) - (3), you may refer to https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html for more details.
+For steps (2) - (3), you may refer to https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html for more details.
 For steps (4) - (5), check https://github.com/jakobrunge/tigramite to find out more.
