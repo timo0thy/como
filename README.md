@@ -1,5 +1,5 @@
 
-![Screenshot 2024-09-12 184116](https://github.com/user-attachments/assets/bf0cd457-4278-4ad4-b385-0331af257293)
+![Screenshot 2024-09-12 184116](https://github.com/user-attachments/assets/3f2f811d-4ebf-47d3-845a-e458ee5926e3)
 
 # 3rd Como Training School on Compound Events - Project 1
 Welcome everyone! Here's the step-by-step guide of how to install the Python packages required for the project. 
