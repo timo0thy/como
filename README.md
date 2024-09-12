@@ -1,3 +1,6 @@
+
+![Screenshot 2024-09-12 184116](https://github.com/user-attachments/assets/bf0cd457-4278-4ad4-b385-0331af257293)
+
 # 3rd Como Training School on Compound Events - Project 1
 Welcome everyone! Here's the step-by-step guide of how to install the Python packages required for the project. 
 (We recommend using Anaconda for installation. Anaconda can be downloaded and installed from https://www.anaconda.com/download/success)
