@@ -15,5 +15,6 @@ dependencies:
   - dask
   - xarray
   - iris
+  - cartopy
   - scipy
   - networkx
